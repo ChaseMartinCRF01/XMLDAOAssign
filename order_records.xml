@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recordList>
+    <record order-number="1">
+        <orderDate>10/17/2020</orderDate>
+        <vendorId>198</vendorId>
+    </record>
+    <record order-number="2">
+        <orderDate>10/18/2020</orderDate>
+        <vendorId>199</vendorId>
+    </record>
+</recordList>
